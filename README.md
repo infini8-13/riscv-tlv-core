@@ -4,9 +4,9 @@ A simple implementation of a RISC-V core written in TL Verilog on Makerchip IDE.
 This implementation is based on RV32I Base instruction set.  
   
 ## Objectives-
-[ ] Digital logic tryouts to familiarize with TL-Verilog
-[ ] Step by step functionality incrementation from Starter code
-[ ] Final RISC-V Core(Pipelined and not-pipelined)
+- [ ] Digital logic tryouts to familiarize with TL-Verilog
+- [ ] Step by step functionality incrementation from Starter code
+- [ ] Final RISC-V Core(Pipelined and not-pipelined)
 
 
 ![VIZ](images/LF_VIZ.png)  
