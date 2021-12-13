@@ -20,7 +20,7 @@ Let’s look at the components of our CPU, following the flow of an instruction 
 
 ## PC Logic
 
-![PC Logic](images/InitialPCLogic.png)
+![PC Logic](images/InitialPCLogic.PNG)
 
 This logic is responsible for the program counter (PC). The PC identifies the instruction our CPU will execute next. Most instructions execute sequentially, meaning the default behavior of the PC is to increment to the following instruction each clock cycle. Branch and jump instructions, however, are non-sequential. They specify a target instruction to execute next, and the PC logic must update the PC accordingly.
 
