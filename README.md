@@ -86,9 +86,9 @@ Pre-built logic diagram of the final CPU. Ctrl-click here to [explore](https://r
 
 ![Final Core](lib/riscv.svg)  
 
-## Reference
+## Acknowledgment and Reference
 
 - RV32I ISA
 - Building RISCV CPU Core - edX
 - Makerchip IDE Tutorials
-
+- Steve Hoover, Redwood EDA
