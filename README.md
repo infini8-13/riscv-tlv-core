@@ -7,7 +7,7 @@ This implementation is based on RV32I Base instruction set.
 - [X] Digital logic tryouts to familiarize with TL-Verilog
 - [X] Step by step functionality incrementation from Starter code
 - [X] Final RISC-V Core
-- [ ] Pipelined
+- [X] Pipelined
 
 
 ![VIZ](images/LF_VIZ.png)  
